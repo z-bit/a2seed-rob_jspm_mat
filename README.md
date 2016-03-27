@@ -1,4 +1,5 @@
 # Basic Seed with ng2-material
+### up to date with beta.12
 ## Based on [Rob Wormald](https://gist.github.com/robwormald/429e01c6d802767441ec) and [Justin Dujardin](https://justindujardin.github.io/ng2-material/)
 <pre><code>
 $ git clone https://github.com/z-bit/a2seed-rob_jspm.git a2seed_rob_mat

@@ -1,7 +1,4 @@
-import 'angular2/bundles/angular2-polyfills.js';
-import 'zone.js';
-import 'reflect-metadata';
-import {Component, ApplicationRef} from 'angular2/core';
+import {Component} from 'angular2/core';
 import {bootstrap} from 'angular2/platform/browser';
 import {MATERIAL_DIRECTIVES, MATERIAL_PROVIDERS} from "ng2-material/all";
 import './app.css!'
